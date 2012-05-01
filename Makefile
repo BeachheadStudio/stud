@@ -2,6 +2,7 @@
 #
 # USE_SHARED_CACHE   :   enable/disable a shared session cache (disabled by default)
 
+USE_SHARED_CACHE = 1
 DESTDIR =
 PREFIX  = /usr/local
 BINDIR  = $(PREFIX)/bin
